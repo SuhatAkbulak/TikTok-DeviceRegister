@@ -1,5 +1,5 @@
 <?php
-
+//Basic TikTok Device Register  
 $mc = ''.rand(1,9).''.rand(1,9).':'.rand(1,9).'9:8A:7'.rand(1,9).':'.rand(1,9).''.rand(1,9).':'.rand(1,9).''.rand(1,9).'';
 $SerialNumber = ''.rand(1,9).'abd'.rand(1,9).'ec'.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).'f';
 $google_aid = 'cf'.rand(1,9).''.rand(1,9).''.rand(1,9).''.rand(1,9).'ce-'.rand(1,9).''.rand(1,9).'b'.rand(1,9).'-'.rand(1,9).'c'.rand(1,9).''.rand(1,9).'-'.rand(1,9).''.rand(1,9).'1e-ac'.rand(1,9).''.rand(1,9).'bfb'.rand(1,9).''.rand(1,9).'f'.rand(1,9).''.rand(1,9).'';
